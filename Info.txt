@@ -1,0 +1,13 @@
+This repository is for how to use MongoDB in Python.
+
+For this you have to do below activity step by step:
+
+--> Download and install MongoDB server in your system. Site for that is : https://www.mongodb.com/download-center
+
+--> Then install MongoDB connector(module) into your system by : "pip install pymongo"
+
+--> Then after run all this file from 1 to 10 no. and follow instruction written in them.
+
+--> Before running any file you have to start your MongoDB server which is basically run on port no "27017"
+
+--> Do uncommenting and commenting whenever required.
